@@ -1,9 +1,9 @@
 # Job Application Platform - Jobify
 
 ## Tech Stack
-- Spring Boot
-- React JS and Tailwind CSS
-- MongoDB
+- <b>Backend:</b> Spring Boot
+- <b>Frontend:</b> React JS and Tailwind CSS
+- <b>Database:</b> MongoDB
 
 ## Features
 - Enables user to post and apply jobs.
