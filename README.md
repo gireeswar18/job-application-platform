@@ -2,7 +2,7 @@
 
 ## Tech Stack
 - Spring Boot
-- React JS
+- React JS and Tailwind CSS
 - MongoDB
 
 ## Features
